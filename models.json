@@ -1,6 +1,6 @@
 [
   {
-    "model": "models/model.obj",
+    "model": "https://muhammadnaveed1.github.io/runaway-widget/models/model.obj",
     "preset": {
       "rawRes": 10,
       "rawLevels": 11,
