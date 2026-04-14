@@ -1,0 +1,29 @@
+[
+  {
+    "model": "models/model.obj",
+    "preset": {
+      "rawRes": 10,
+      "rawLevels": 11,
+      "rawThickness": 0.43,
+      "rawContrast": 1.2,
+      "rawScale": 1.7949999881535772,
+      "rawCellGap": 0,
+      "rawGridWidth": 0,
+      "rawDiagonalDensity": 100,
+      "rawLerp": 0.17,
+      "rawCustomText": "RUNAWAY",
+      "patternNoise": 0,
+      "stability": 0.5,
+      "edgeMode": false,
+      "edgeSensitivity": 0.15,
+      "brightnessMin": 0,
+      "brightnessMax": 100,
+      "bgColor": "#f1f2f2",
+      "linesColor": "#111111",
+      "squaresColor": "#111111",
+      "symbolsColor": "#111111",
+      "autoRotate": true,
+      "rotationSpeed": 1
+    }
+  }
+]
